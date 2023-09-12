@@ -3,6 +3,6 @@
 	margin:1rem;
 }
 
-.evens:nth-child(even){
+.input:nth-child(even){
 	color:red;
 }
