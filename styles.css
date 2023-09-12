@@ -2,6 +2,7 @@
 *{
 	margin:1rem;
 }
-.evens{
+
+.evens:nth-child(even){
 	color:red;
 }
